@@ -9,7 +9,7 @@ package javaapplication35;
  * @author NGUYEN NGOC TRUONG
  */
 public class JavaApplication35 {
-
+// hello đây là tèo
     /**
      * @param args the command line arguments
      */
