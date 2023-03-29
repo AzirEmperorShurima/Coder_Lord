@@ -5,7 +5,7 @@
 package javaapplication35;
 
 /**
- *
+ *check in Thang
  * @author NGUYEN VAN THANG 
  */
 public class NewClass {

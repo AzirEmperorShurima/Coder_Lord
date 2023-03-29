@@ -15,7 +15,7 @@ import javax.swing.SwingConstants;
  */
 public final class Math_Program extends javax.swing.JFrame {
 
-    /**rrrrrrrrrrrrr
+    /**Thang
      * Creates new form Math_Program
      */
     public Math_Program() {
