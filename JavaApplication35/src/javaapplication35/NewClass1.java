@@ -5,8 +5,8 @@
 package javaapplication35;
 
 /**
- * // checkin Thang
  *
+ * checkin by Thang
  * @author TRAN VAN TRI
  */
 public class NewClass1 {

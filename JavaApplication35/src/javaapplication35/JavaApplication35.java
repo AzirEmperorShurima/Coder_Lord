@@ -6,12 +6,12 @@ package javaapplication35;
 
 /**
  *
- * //checkin Thang
  * @author NGUYEN NGOC TRUONG
  */
 public class JavaApplication35 {
 
     /**
+     * checkin By Thang
      * @param args the command line arguments
      */
     public double tru(String A,String B){

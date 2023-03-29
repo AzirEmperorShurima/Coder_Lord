@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package git_lord_land;
+package javaapplication35;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -15,7 +15,7 @@ import javax.swing.SwingConstants;
  */
 public final class Math_Program extends javax.swing.JFrame {
 
-    /**Thang
+    /**checkin by Thang
      * Creates new form Math_Program
      */
     public Math_Program() {
